@@ -1,0 +1,13 @@
+html {
+    background-color:#FFD28C;
+}
+body{
+    color: #0073BB;
+}
+a:hover{
+    color: #7FD1AE;
+}
+footer{
+    font-size: large;
+    font-weight: bold;
+}
